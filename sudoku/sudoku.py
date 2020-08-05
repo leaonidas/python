@@ -1,4 +1,5 @@
 #Sudoku Solver
+#Uses Backtracking algorithm
 
 def solver(puzzle):
 	num = 1
