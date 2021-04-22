@@ -1,0 +1,1246 @@
+[
+	{
+		"week" : 1,
+		"home_team" : "Famalicão",
+		"away_team" : "Benfica",
+		"home_xG" : 0.6,
+		"away_xG" : 2.9
+	},{
+		"week" : 1,
+		"home_team" : "Vitória",
+		"away_team" : "BSAD",
+		"home_xG" : 0.4,
+		"away_xG" : 0.5
+	},{
+		"week" : 1,
+		"home_team" : "Nacional",
+		"away_team" : "Boavista",
+		"home_xG" : 1.4,
+		"away_xG" : 0.4
+	},{
+		"week" : 1,
+		"home_team" : "Porto",
+		"away_team" : "Braga",
+		"home_xG" : 2.7,
+		"away_xG" : 0.6
+	},{
+		"week" : 1,
+		"home_team" : "Santa Clara",
+		"away_team" : "Marítimo",
+		"home_xG" : 2.2,
+		"away_xG" : 1.4
+	},{
+		"week" : 1,
+		"home_team" : "Moreirense",
+		"away_team" : "Farense",
+		"home_xG" : 1.7,
+		"away_xG" : 0.5
+	},{
+		"week" : 1,
+		"home_team" : "Tondela",
+		"away_team" : "Rio Ave",
+		"home_xG" : 0.6,
+		"away_xG" : 1.1
+	},{
+		"week" : 1,
+		"home_team" : "Portimonense",
+		"away_team" : "Paços",
+		"home_xG" : 0.8,
+		"away_xG" : 1.6
+	},{
+		"week" : 1,
+		"home_team" : "Sporting",
+		"away_team" : "Gil",
+		"home_xG" : 3.1,
+		"away_xG" : 0.2
+	},{
+		"week" : 2,
+		"home_team" : "Braga",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.9,
+		"away_xG" : 0.6
+	},{
+		"week" : 2,
+		"home_team" : "Marítimo",
+		"away_team" : "Tondela",
+		"home_xG" : 1.6,
+		"away_xG" : 1.2
+	},{
+		"week" : 2,
+		"home_team" : "Benfica",
+		"away_team" : "Moreirense",
+		"home_xG" : 4.0,
+		"away_xG" : 0.2
+	},{
+		"week" : 2,
+		"home_team" : "Boavista",
+		"away_team" : "Porto",
+		"home_xG" : 2.1,
+		"away_xG" : 0.8
+	},{
+		"week" : 2,
+		"home_team" : "Farense",
+		"away_team" : "Nacional",
+		"home_xG" : 1.0,
+		"away_xG" : 1.1
+	},
+	{
+		"week" : 2,
+		"home_team" : "Gil",
+		"away_team" : "Portimonense",
+		"home_xG" : 1.1,
+		"away_xG" : 2.0
+	},{
+		"week" : 2,
+		"home_team" : "Paços",
+		"away_team" : "Sporting",
+		"home_xG" : 0.8,
+		"away_xG" : 2
+	},{
+		"week" : 2,
+		"home_team" : "Rio Ave",
+		"away_team" : "Vitória",
+		"home_xG" : 0.7,
+		"away_xG" : 0.2
+	},{
+		"week" : 2,
+		"home_team" : "BSAD",
+		"away_team" : "Famalicão",
+		"home_xG" : 0.8,
+		"away_xG" : 0.5
+	},{
+		"week" : 3,
+		"home_team" : "Moreirense",
+		"away_team" : "Boavista",
+		"home_xG" : 1.7,
+		"away_xG" : 1.1
+	},{
+		"week" : 3,
+		"home_team" : "Vitória",
+		"away_team" : "Paços",
+		"home_xG" : 1.1,
+		"away_xG" : 0.8
+	},{
+		"week" : 3,
+		"home_team" : "Santa Clara",
+		"away_team" : "Gil",
+		"home_xG" : 1.0,
+		"away_xG" : 0.3
+	},{
+		"week" : 3,
+		"home_team" : "Porto",
+		"away_team" : "Marítimo",
+		"home_xG" : 3.1,
+		"away_xG" : 0.8
+	},{
+		"week" : 3,
+		"home_team" : "Tondela",
+		"away_team" : "Braga",
+		"home_xG" : 1.6,
+		"away_xG" : 2.2
+	},{
+		"week" : 3,
+		"home_team" : "Nacional",
+		"away_team" : "BSAD",
+		"home_xG" : 1.0,
+		"away_xG" : 0.7
+	},{
+		"week" : 3,
+		"home_team" : "Famalicão",
+		"away_team" : "Rio Ave",
+		"home_xG" : 1.4,
+		"away_xG" : 0.7
+	},{
+		"week" : 3,
+		"home_team" : "Benfica",
+		"away_team" : "Farense",
+		"home_xG" : 2.0,
+		"away_xG" : 2.0
+	},{
+		"week" : 3,
+		"home_team" : "Portimonense",
+		"away_team" : "Sporting",
+		"home_xG" : 0.9,
+		"away_xG" : 1.7
+	},{
+		"week" : 4,
+		"home_team" : "Gil",
+		"away_team" : "Tondela",
+		"home_xG" : 1.9,
+		"away_xG" : 0.0
+	},{
+		"week" : 4,
+		"home_team" : "Marítimo",
+		"away_team" : "Portimonense",
+		"home_xG" : 1.6,
+		"away_xG" : 1.1
+	},{
+		"week" : 4,
+		"home_team" : "Braga",
+		"away_team" : "Nacional",
+		"home_xG" : 1.4,
+		"away_xG" : 0.5
+	},{
+		"week" : 4,
+		"home_team" : "Sporting",
+		"away_team" : "Porto",
+		"home_xG" : 1.9,
+		"away_xG" : 1.3
+	},{
+		"week" : 4,
+		"home_team" : "Paços",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.2,
+		"away_xG" : 1.9
+	},{
+		"week" : 4,
+		"home_team" : "BSAD",
+		"away_team" : "Moreirense",
+		"home_xG" : 0.7,
+		"away_xG" : 0.7
+	},{
+		"week" : 4,
+		"home_team" : "Farense",
+		"away_team" : "Famalicão",
+		"home_xG" : 2.2,
+		"away_xG" : 1.5
+	},{
+		"week" : 4,
+		"home_team" : "Rio Ave",
+		"away_team" : "Benfica",
+		"home_xG" : 1.7,
+		"away_xG" : 0.2
+	},{
+		"week" : 4,
+		"home_team" : "Boavista",
+		"away_team" : "Vitória",
+		"home_xG" : 1.5,
+		"away_xG" : 0.4
+	},{
+		"week" : 5,
+		"home_team" : "Tondela",
+		"away_team" : "Portimonense",
+		"home_xG" : 0.7,
+		"away_xG" : 0.8
+	},{
+		"week" : 5,
+		"home_team" : "Nacional",
+		"away_team" : "Paços",
+		"home_xG" : 0.4,
+		"away_xG" : 0.9
+	},{
+		"week" : 5,
+		"home_team" : "Santa Clara",
+		"away_team" : "Sporting",
+		"home_xG" : 0.6,
+		"away_xG" : 1.9
+	},{
+		"week" : 5,
+		"home_team" : "Porto",
+		"away_team" : "Gil",
+		"home_xG" : 2.9,
+		"away_xG" : 0.8
+	},{
+		"week" : 5,
+		"home_team" : "Moreirense",
+		"away_team" : "Marítimo",
+		"home_xG" : 2.8,
+		"away_xG" : 0.9
+	},{
+		"week" : 5,
+		"home_team" : "Farense",
+		"away_team" : "Rio Ave",
+		"home_xG" : 0.8,
+		"away_xG" : 0.7
+	},{
+		"week" : 5,
+		"home_team" : "Famalicão",
+		"away_team" : "Boavista",
+		"home_xG" : 2.5,
+		"away_xG" : 0.7
+	},{
+		"week" : 5,
+		"home_team" : "Vitória",
+		"away_team" : "Braga",
+		"home_xG" : 0.8,
+		"away_xG" : 1.7
+	},{
+		"week" : 5,
+		"home_team" : "Benfica",
+		"away_team" : "BSAD",
+		"home_xG" : 2.0,
+		"away_xG" : 0.2
+	},{
+		"week" : 6,
+		"home_team" : "Paços",
+		"away_team" : "Porto",
+		"home_xG" : 2.4,
+		"away_xG" : 1.4
+	},{
+		"week" : 6,
+		"home_team" : "BSAD",
+		"away_team" : "Farense",
+		"home_xG" : 0.4,
+		"away_xG" : 2.0
+	},{
+		"week" : 6,
+		"home_team" : "Rio Ave",
+		"away_team" : "Moreirense",
+		"home_xG" : 1.5,
+		"away_xG" : 0.2
+	},{
+		"week" : 6,
+		"home_team" : "Marítimo",
+		"away_team" : "Nacional",
+		"home_xG" : 0.6,
+		"away_xG" : 0.3
+	},{
+		"week" : 6,
+		"home_team" : "Portimonense",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.0,
+		"away_xG" : 2.3
+	},{
+		"week" : 6,
+		"home_team" : "Gil",
+		"away_team" : "Vitória",
+		"home_xG" : 1.7,
+		"away_xG" : 0.9
+	},{
+		"week" : 6,
+		"home_team" : "Sporting",
+		"away_team" : "Tondela",
+		"home_xG" : 4.3,
+		"away_xG" : 0.1
+	},{
+		"week" : 6,
+		"home_team" : "Braga",
+		"away_team" : "Famalicão",
+		"home_xG" : 1.5,
+		"away_xG" : 0.3
+	},{
+		"week" : 6,
+		"home_team" : "Boavista",
+		"away_team" : "Benfica",
+		"home_xG" : 2.4,
+		"away_xG" : 0.6
+	},{
+		"week" : 7,
+		"home_team" : "BSAD",
+		"away_team" : "Rio Ave",
+		"home_xG" : 0.5,
+		"away_xG" : 0.3
+	},{
+		"week" : 7,
+		"home_team" : "Tondela",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.4,
+		"away_xG" : 1.7
+	},{
+		"week" : 7,
+		"home_team" : "Famalicão",
+		"away_team" : "Marítimo",
+		"home_xG" : 2.2,
+		"away_xG" : 0.9
+	},{
+		"week" : 7,
+		"home_team" : "Vitória",
+		"away_team" : "Sporting",
+		"home_xG" : 0.9,
+		"away_xG" : 1.5
+	},{
+		"week" : 7,
+		"home_team" : "Nacional",
+		"away_team" : "Gil",
+		"home_xG" : 1.4,
+		"away_xG" : 1.9
+	},{
+		"week" : 7,
+		"home_team" : "Farense",
+		"away_team" : "Boavista",
+		"home_xG" : 0.7,
+		"away_xG" : 0.9
+	},{
+		"week" : 7,
+		"home_team" : "Porto",
+		"away_team" : "Portimonense",
+		"home_xG" : 2.2,
+		"away_xG" : 0.8
+	},{
+		"week" : 7,
+		"home_team" : "Benfica",
+		"away_team" : "Braga",
+		"home_xG" : 2.4,
+		"away_xG" : 1.1
+	},{
+		"week" : 7,
+		"home_team" : "Moreirense",
+		"away_team" : "Paços",
+		"home_xG" : 0.5,
+		"away_xG" : 0.6
+	},{
+		"week" : 8,
+		"home_team" : "Paços",
+		"away_team" : "Famalicão",
+		"home_xG" : 1.4,
+		"away_xG" : 0.4
+	},{
+		"week" : 8,
+		"home_team" : "Tondela",
+		"away_team" : "Vitória",
+		"home_xG" : 0.8,
+		"away_xG" : 1.8
+	},{
+		"week" : 8,
+		"home_team" : "Santa Clara",
+		"away_team" : "Porto",
+		"home_xG" : 0.3,
+		"away_xG" : 0.2
+	},{
+		"week" : 8,
+		"home_team" : "Sporting",
+		"away_team" : "Moreirense",
+		"home_xG" : 2.2,
+		"away_xG" : 0.1
+	},{
+		"week" : 8,
+		"home_team" : "Portimonense",
+		"away_team" : "Nacional",
+		"home_xG" : 1.3,
+		"away_xG" : 0.4
+	},{
+		"week" : 8,
+		"home_team" : "Boavista",
+		"away_team" : "BSAD",
+		"home_xG" : 1.0,
+		"away_xG" : 0.6
+	},{
+		"week" : 8,
+		"home_team" : "Braga",
+		"away_team" : "Farense",
+		"home_xG" : 1.3,
+		"away_xG" : 0.3
+	},{
+		"week" : 8,
+		"home_team" : "Marítimo",
+		"away_team" : "Benfica",
+		"home_xG" : 0.9,
+		"away_xG" : 1.5
+	},{
+		"week" : 8,
+		"home_team" : "Gil",
+		"away_team" : "Rio Ave",
+		"home_xG" : 0.3,
+		"away_xG" : 0.8
+	},{
+		"week" : 9,
+		"home_team" : "Vitória",
+		"away_team" : "Portimonense",
+		"home_xG" : 0.3,
+		"away_xG" : 0.5
+	},{
+		"week" : 9,
+		"home_team" : "Moreirense",
+		"away_team" : "Gil",
+		"home_xG" : 0.1,
+		"away_xG" : 0.9
+	},{
+		"week" : 9,
+		"home_team" : "Famalicão",
+		"away_team" : "Sporting",
+		"home_xG" : 0.7,
+		"away_xG" : 1.5
+	},{
+		"week" : 9,
+		"home_team" : "Porto",
+		"away_team" : "Tondela",
+		"home_xG" : 2.6,
+		"away_xG" : 0.9
+	},{
+		"week" : 9,
+		"home_team" : "Nacional",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.3,
+		"away_xG" : 2.2
+	},{
+		"week" : 9,
+		"home_team" : "Rio Ave",
+		"away_team" : "Boavista",
+		"home_xG" : 0.7,
+		"away_xG" : 0.9
+	},{
+		"week" : 9,
+		"home_team" : "BSAD",
+		"away_team" : "Braga",
+		"home_xG" : 0.6,
+		"away_xG" : 1.5
+	},{
+		"week" : 9,
+		"home_team" : "Benfica",
+		"away_team" : "Paços",
+		"home_xG" : 1.9,
+		"away_xG" : 1.5
+	},{
+		"week" : 9,
+		"home_team" : "Farense",
+		"away_team" : "Marítimo",
+		"home_xG" : 1.6,
+		"away_xG" : 0.6
+	},{
+		"week" : 10,
+		"home_team" : "Portimonense",
+		"away_team" : "Famalicão",
+		"home_xG" : 1.4,
+		"away_xG" : 0.6
+	},{
+		"week" : 10,
+		"home_team" : "Marítimo",
+		"away_team" : "BSAD",
+		"home_xG" : 0.8,
+		"away_xG" : 0.2
+	},{
+		"week" : 10,
+		"home_team" : "Tondela",
+		"away_team" : "Moreirense",
+		"home_xG" : 0.2,
+		"away_xG" : 0.5
+	},{
+		"week" : 10,
+		"home_team" : "Sporting",
+		"away_team" : "Farense",
+		"home_xG" : 1.5,
+		"away_xG" : 0.5
+	},{
+		"week" : 10,
+		"home_team" : "Paços",
+		"away_team" : "Boavista",
+		"home_xG" : 0.9,
+		"away_xG" : 0.7
+	},{
+		"week" : 10,
+		"home_team" : "Gil",
+		"away_team" : "Benfica",
+		"home_xG" : 0.7,
+		"away_xG" : 1.4
+	},{
+		"week" : 10,
+		"home_team" : "Porto",
+		"away_team" : "Nacional",
+		"home_xG" : 1.8,
+		"away_xG" : 0.1
+	},{
+		"week" : 10,
+		"home_team" : "Santa Clara",
+		"away_team" : "Vitória",
+		"home_xG" : 1.5,
+		"away_xG" : 1.5
+	},{
+		"week" : 10,
+		"home_team" : "Braga",
+		"away_team" : "Rio Ave",
+		"home_xG" : 1.6,
+		"away_xG" : 0.8
+	},{
+		"week" : 11,
+		"home_team" : "Famalicão",
+		"away_team" : "Gil",
+		"home_xG" : 0.3,
+		"away_xG" : 0.7
+	},{
+		"week" : 11,
+		"home_team" : "Nacional",
+		"away_team" : "Tondela",
+		"home_xG" : 2.2,
+		"away_xG" : 1.8
+	},{
+		"week" : 11,
+		"home_team" : "Farense",
+		"away_team" : "Paços",
+		"home_xG" : 0.8,
+		"away_xG" : 1.3
+	},{
+		"week" : 11,
+		"home_team" : "BSAD",
+		"away_team" : "Sporting",
+		"home_xG" : 1.3,
+		"away_xG" : 1.2
+	},{
+		"week" : 11,
+		"home_team" : "Rio Ave",
+		"away_team" : "Marítimo",
+		"home_xG" : 1.0,
+		"away_xG" : 1.6
+	},{
+		"week" : 11,
+		"home_team" : "Boavista",
+		"away_team" : "Braga",
+		"home_xG" : 0.9,
+		"away_xG" : 2.5
+	},{
+		"week" : 11,
+		"home_team" : "Benfica",
+		"away_team" : "Portimonense",
+		"home_xG" : 2.1,
+		"away_xG" : 0.8
+	},{
+		"week" : 11,
+		"home_team" : "Moreirense",
+		"away_team" : "Santa Clara",
+		"home_xG" : 0.8,
+		"away_xG" : 0.4
+	},{
+		"week" : 11,
+		"home_team" : "Vitória",
+		"away_team" : "Porto",
+		"home_xG" : 0.7,
+		"away_xG" : 2.2
+	},{
+		"week" : 12,
+		"home_team" : "Sporting",
+		"away_team" : "Braga",
+		"home_xG" : 0.9,
+		"away_xG" : 0.9
+	},{
+		"week" : 12,
+		"home_team" : "Tondela",
+		"away_team" : "Famalicão",
+		"home_xG" : 1.2,
+		"away_xG" : 2.3
+	},{
+		"week" : 12,
+		"home_team" : "Marítimo",
+		"away_team" : "Boavista",
+		"home_xG" : 0.8,
+		"away_xG" : 1.3
+	},{
+		"week" : 12,
+		"home_team" : "Paços",
+		"away_team" : "Rio Ave",
+		"home_xG" : 2.0,
+		"away_xG" : 1.0
+	},{
+		"week" : 12,
+		"home_team" : "Porto",
+		"away_team" : "Moreirense",
+		"home_xG" : 3.5,
+		"away_xG" : 0.1
+	},{
+		"week" : 12,
+		"home_team" : "Santa Clara",
+		"away_team" : "Benfica",
+		"home_xG" : 1.0,
+		"away_xG" : 0.9
+	},{
+		"week" : 12,
+		"home_team" : "Gil",
+		"away_team" : "BSAD",
+		"home_xG" : 0.5,
+		"away_xG" : 0.2
+	},{
+		"week" : 12,
+		"home_team" : "Portimonense",
+		"away_team" : "Farense",
+		"home_xG" : 1.3,
+		"away_xG" : 0.2
+	},{
+		"week" : 12,
+		"home_team" : "Vitória",
+		"away_team" : "Nacional",
+		"home_xG" : 1.2,
+		"away_xG" : 1.1
+	},{
+		"week" : 13,
+		"home_team" : "Braga",
+		"away_team" : "Marítimo",
+		"home_xG" : 1.3,
+		"away_xG" : 0.8
+	},{
+		"week" : 13,
+		"home_team" : "Nacional",
+		"away_team" : "Sporting",
+		"home_xG" : 3.0,
+		"away_xG" : 0.2
+	},{
+		"week" : 13,
+		"home_team" : "Benfica",
+		"away_team" : "Tondela",
+		"home_xG" : 2.7,
+		"away_xG" : 0.3
+	},{
+		"week" : 13,
+		"home_team" : "Rio Ave",
+		"away_team" : "Portimonense",
+		"home_xG" : 1.6,
+		"away_xG" : 0.7
+	},{
+		"week" : 13,
+		"home_team" : "Famalicão",
+		"away_team" : "Porto",
+		"home_xG" : 1.1,
+		"away_xG" : 1.5
+	},{
+		"week" : 13,
+		"home_team" : "Moreirense",
+		"away_team" : "Vitória",
+		"home_xG" : 1.6,
+		"away_xG" : 0.9
+	},{
+		"week" : 13,
+		"home_team" : "Boavista",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.6,
+		"away_xG" : 0.4
+	},{
+		"week" : 13,
+		"home_team" : "Farense",
+		"away_team" : "Gil",
+		"home_xG" : 1.6,
+		"away_xG" : 0.3
+	},{
+		"week" : 13,
+		"home_team" : "BSAD",
+		"away_team" : "Paços",
+		"home_xG" : 1.1,
+		"away_xG" : 1.5
+	},{
+		"week" : 14,
+		"home_team" : "Sporting",
+		"away_team" : "Rio Ave",
+		"home_xG" : 1.0,
+		"away_xG" : 0.9
+	},{
+		"week" : 14,
+		"home_team" : "Porto",
+		"away_team" : "Benfica",
+		"home_xG" : 1.0,
+		"away_xG" : 1.8
+	},{
+		"week" : 14,
+		"home_team" : "Paços",
+		"away_team" : "Braga",
+		"home_xG" : 0.9,
+		"away_xG" : 1.5
+	},{
+		"week" : 14,
+		"home_team" : "Tondela",
+		"away_team" : "Boavista",
+		"home_xG" : 1.6,
+		"away_xG" : 0.9
+	},{
+		"week" : 14,
+		"home_team" : "Nacional",
+		"away_team" : "Moreirense",
+		"home_xG" : 1.1,
+		"away_xG" : 1.0
+	},{
+		"week" : 14,
+		"home_team" : "Santa Clara",
+		"away_team" : "Famalicão",
+		"home_xG" : 0.4,
+		"away_xG" : 1.1
+	},{
+		"week" : 14,
+		"home_team" : "Gil",
+		"away_team" : "Marítimo",
+		"home_xG" : 1.0,
+		"away_xG" : 1.0
+	},{
+		"week" : 14,
+		"home_team" : "Portimonense",
+		"away_team" : "BSAD",
+		"home_xG" : 1.9,
+		"away_xG" : 0.3
+	},{
+		"week" : 14,
+		"home_team" : "Vitória",
+		"away_team" : "Farense",
+		"home_xG" : 1.2,
+		"away_xG" : 1.1
+	},{
+		"week" : 15,
+		"home_team" : "Marítimo",
+		"away_team" : "Paços",
+		"home_xG" : 0.6,
+		"away_xG" : 1.9
+	},{
+		"week" : 15,
+		"home_team" : "Moreirense",
+		"away_team" : "Portimonense",
+		"home_xG" : 1.7,
+		"away_xG" : 1.1
+	},{
+		"week" : 15,
+		"home_team" : "Famalicão",
+		"away_team" : "Vitória",
+		"home_xG" : 0.6,
+		"away_xG" : 0.4
+	},{
+		"week" : 15,
+		"home_team" : "BSAD",
+		"away_team" : "Tondela",
+		"home_xG" : 1.5,
+		"away_xG" : 0.7
+	},{
+		"week" : 15,
+		"home_team" : "Rio Ave",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.5,
+		"away_xG" : 1.2
+	},{
+		"week" : 15,
+		"home_team" : "Benfica",
+		"away_team" : "Nacional",
+		"home_xG" : 1.6,
+		"away_xG" : 0.9
+	},{
+		"week" : 15,
+		"home_team" : "Farense",
+		"away_team" : "Porto",
+		"home_xG" : 1.0,
+		"away_xG" : 2.1
+	},{
+		"week" : 15,
+		"home_team" : "Braga",
+		"away_team" : "Gil",
+		"home_xG" : 1.8,
+		"away_xG" : 0.3
+	},{
+		"week" : 15,
+		"home_team" : "Boavista",
+		"away_team" : "Sporting",
+		"home_xG" : 0.3,
+		"away_xG" : 2.3
+	},{
+		"week" : 16,
+		"home_team" : "Nacional",
+		"away_team" : "Famalicão",
+		"home_xG" : 0.9,
+		"away_xG" : 0.8
+	},{
+		"week" : 16,
+		"home_team" : "Tondela",
+		"away_team" : "Farense",
+		"home_xG" : 0.9,
+		"away_xG" : 0.5
+	},{
+		"week" : 16,
+		"home_team" : "Portimonense",
+		"away_team" : "Boavista",
+		"home_xG" : 0.9,
+		"away_xG" : 1.7
+	},{
+		"week" : 16,
+		"home_team" : "Vitória",
+		"away_team" : "Marítimo",
+		"home_xG" : 1.1,
+		"away_xG" : 0.7
+	},{
+		"week" : 16,
+		"home_team" : "Santa Clara",
+		"away_team" : "BSAD",
+		"home_xG" : 1.3,
+		"away_xG" : 0.5
+	},{
+		"week" : 16,
+		"home_team" : "Porto",
+		"away_team" : "Rio Ave",
+		"home_xG" : 2.7,
+		"away_xG" : 0.4
+	},{
+		"week" : 16,
+		"home_team" : "Moreirense",
+		"away_team" : "Braga",
+		"home_xG" : 0.6,
+		"away_xG" : 1.6
+	},{
+		"week" : 16,
+		"home_team" : "Sporting",
+		"away_team" : "Benfica",
+		"home_xG" : 0.9,
+		"away_xG" : 0.3
+	},{
+		"week" : 16,
+		"home_team" : "Gil",
+		"away_team" : "Paços",
+		"home_xG" : 0.7,
+		"away_xG" : 1.2
+	},{
+		"week" : 17,
+		"home_team" : "Farense",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.0,
+		"away_xG" : 1.7
+	},{
+		"week" : 17,
+		"home_team" : "BSAD",
+		"away_team" : "Porto",
+		"home_xG" : 0.2,
+		"away_xG" : 1.3
+	},{
+		"week" : 17,
+		"home_team" : "Braga",
+		"away_team" : "Portimonense",
+		"home_xG" : 2.5,
+		"away_xG" : 0.9
+	},{
+		"week" : 17,
+		"home_team" : "Famalicão",
+		"away_team" : "Moreirense",
+		"home_xG" : 1.4,
+		"away_xG" : 1.3
+	},{
+		"week" : 17,
+		"home_team" : "Rio Ave",
+		"away_team" : "Nacional",
+		"home_xG" : 1.9,
+		"away_xG" : 2.0
+	},{
+		"week" : 17,
+		"home_team" : "Benfica",
+		"away_team" : "Vitória",
+		"home_xG" : 1.8,
+		"away_xG" : 0.3
+	},{
+		"week" : 17,
+		"home_team" : "Marítimo",
+		"away_team" : "Sporting",
+		"home_xG" : 0.2,
+		"away_xG" : 1.5
+	},{
+		"week" : 17,
+		"home_team" : "Paços",
+		"away_team" : "Tondela",
+		"home_xG" : 0.5,
+		"away_xG" : 1.0
+	},{
+		"week" : 17,
+		"home_team" : "Boavista",
+		"away_team" : "Gil",
+		"home_xG" : 1.2,
+		"away_xG" : 1.5
+	},{
+		"week" : 18,
+		"home_team" : "Braga",
+		"away_team" : "Porto",
+		"home_xG" : 1.3,
+		"away_xG" : 2.1
+	},{
+		"week" : 18,
+		"home_team" : "Farense",
+		"away_team" : "Moreirense",
+		"home_xG" : 2.1,
+		"away_xG" : 1.1
+	},{
+		"week" : 18,
+		"home_team" : "Benfica",
+		"away_team" : "Famalicão",
+		"home_xG" : 2.5,
+		"away_xG" : 0.4
+	},{
+		"week" : 18,
+		"home_team" : "Marítimo",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.6,
+		"away_xG" : 1.1
+	},{
+		"week" : 18,
+		"home_team" : "BSAD",
+		"away_team" : "Vitória",
+		"home_xG" : 1.6,
+		"away_xG" : 1.3
+	},{
+		"week" : 18,
+		"home_team" : "Paços",
+		"away_team" : "Portimonense",
+		"home_xG" : 0.5,
+		"away_xG" : 1.6
+	},{
+		"week" : 18,
+		"home_team" : "Rio Ave",
+		"away_team" : "Tondela",
+		"home_xG" : 1.4,
+		"away_xG" : 0.6
+	},{
+		"week" : 18,
+		"home_team" : "Boavista",
+		"away_team" : "Nacional",
+		"home_xG" : 1.0,
+		"away_xG" : 0.3
+	},{
+		"week" : 18,
+		"home_team" : "Gil",
+		"away_team" : "Sporting",
+		"home_xG" : 1.0,
+		"away_xG" : 2.2
+	},{
+		"week" : 19,
+		"home_team" : "Famalicão",
+		"away_team" : "BSAD",
+		"home_xG" : 0.3,
+		"away_xG" : 1.5
+	},{
+		"week" : 19,
+		"home_team" : "Nacional",
+		"away_team" : "Farense",
+		"home_xG" : 0.7,
+		"away_xG" : 1.3
+	},{
+		"week" : 19,
+		"home_team" : "Vitória",
+		"away_team" : "Rio Ave",
+		"home_xG" : 3.0,
+		"away_xG" : 1.3
+	},{
+		"week" : 19,
+		"home_team" : "Porto",
+		"away_team" : "Boavista",
+		"home_xG" : 2.6,
+		"away_xG" : 1.6
+	},{
+		"week" : 19,
+		"home_team" : "Portimonense",
+		"away_team" : "Gil",
+		"home_xG" : 2.0,
+		"away_xG" : 1.1
+	},{
+		"week" : 19,
+		"home_team" : "Santa Clara",
+		"away_team" : "Braga",
+		"home_xG" : 0.4,
+		"away_xG" : 0.5
+	},{
+		"week" : 19,
+		"home_team" : "Moreirense",
+		"away_team" : "Benfica",
+		"home_xG" : 1.2,
+		"away_xG" : 1.8
+	},{
+		"week" : 19,
+		"home_team" : "Sporting",
+		"away_team" : "Paços",
+		"home_xG" : 1.8,
+		"away_xG" : 0.4
+	},{
+		"week" : 19,
+		"home_team" : "Tondela",
+		"away_team" : "Marítimo",
+		"home_xG" : 1.6,
+		"away_xG" : 0.4
+	},{
+		"week" : 20,
+		"home_team" : "Boavista",
+		"away_team" : "Moreirense",
+		"home_xG" : 1.5,
+		"away_xG" : 0.8
+	},{
+		"week" : 20,
+		"home_team" : "BSAD",
+		"away_team" : "Nacional",
+		"home_xG" : 1.7,
+		"away_xG" : 1.2
+	},{
+		"week" : 20,
+		"home_team" : "Gil",
+		"away_team" : "Santa Clara",
+		"home_xG" : 2.5,
+		"away_xG" : 0.5
+	},{
+		"week" : 20,
+		"home_team" : "Sporting",
+		"away_team" : "Portimonense",
+		"home_xG" : 2.2,
+		"away_xG" : 0.5
+	},{
+		"week" : 20,
+		"home_team" : "Rio Ave",
+		"away_team" : "Famalicão",
+		"home_xG" : 0.5,
+		"away_xG" : 0.6
+	},{
+		"week" : 20,
+		"home_team" : "Paços",
+		"away_team" : "Vitória",
+		"home_xG" : 0.7,
+		"away_xG" : 0.5
+	},{
+		"week" : 20,
+		"home_team" : "Braga",
+		"away_team" : "Tondela",
+		"home_xG" : 2.9,
+		"away_xG" : 0.6
+	},{
+		"week" : 20,
+		"home_team" : "Farense",
+		"away_team" : "Benfica",
+		"home_xG" : 0.7,
+		"away_xG" : 1.4
+	},{
+		"week" : 20,
+		"home_team" : "Marítimo",
+		"away_team" : "Porto",
+		"home_xG" : 2.1,
+		"away_xG" : 2.3
+	},{
+		"week" : 21,
+		"home_team" : "Vitória",
+		"away_team" : "Boavista",
+		"home_xG" : 2.3,
+		"away_xG" : 1.2
+	},{
+		"week" : 21,
+		"home_team" : "Famalicão",
+		"away_team" : "Farense",
+		"home_xG" : 0.6,
+		"away_xG" : 0.6
+	},{
+		"week" : 21,
+		"home_team" : "Santa Clara",
+		"away_team" : "Paços",
+		"home_xG" : 1.7,
+		"away_xG" : 1.0
+	},{
+		"week" : 21,
+		"home_team" : "Porto",
+		"away_team" : "Sporting",
+		"home_xG" : 1.5,
+		"away_xG" : 0.6
+	},{
+		"week" : 21,
+		"home_team" : "Portimonense",
+		"away_team" : "Marítimo",
+		"home_xG" : 0.3,
+		"away_xG" : 0.6
+	},{
+		"week" : 21,
+		"home_team" : "Tondela",
+		"away_team" : "Gil",
+		"home_xG" : 3.7,
+		"away_xG" : 0.8
+	},{
+		"week" : 21,
+		"home_team" : "Nacional",
+		"away_team" : "Braga",
+		"home_xG" : 2.5,
+		"away_xG" : 0.7
+	},{
+		"week" : 21,
+		"home_team" : "Benfica",
+		"away_team" : "Rio Ave",
+		"home_xG" : 2.5,
+		"away_xG" : 1.1
+	},{
+		"week" : 21,
+		"home_team" : "Moreirense",
+		"away_team" : "BSAD",
+		"home_xG" : 1.5,
+		"away_xG" : 2.8
+	},{
+		"week" : 22,
+		"home_team" : "Paços",
+		"away_team" : "Nacional",
+		"home_xG" : 0.6,
+		"away_xG" : 0.6
+	},{
+		"week" : 22,
+		"home_team" : "Sporting",
+		"away_team" : "Santa Clara",
+		"home_xG" : 1.4,
+		"away_xG" : 0.6
+	},{
+		"week" : 22,
+		"home_team" : "Portimonense",
+		"away_team" : "Tondela",
+		"home_xG" : 1.2,
+		"away_xG" : 0.4
+	},{
+		"week" : 22,
+		"home_team" : "Gil",
+		"away_team" : "Porto",
+		"home_xG" : 0.4,
+		"away_xG" : 1.0
+	},{
+		"week" : 22,
+		"home_team" : "Boavista",
+		"away_team" : "Famalicão",
+		"home_xG" : 1.5,
+		"away_xG" : 0.7
+	},{
+		"week" : 22,
+		"home_team" : "Marítimo",
+		"away_team" : "Moreirense",
+		"home_xG" : 2.1,
+		"away_xG" : 2.0
+	},{
+		"week" : 22,
+		"home_team" : "Rio Ave",
+		"away_team" : "Farense",
+		"home_xG" : 1.2,
+		"away_xG" : 0.3
+	},{
+		"week" : 22,
+		"home_team" : "BSAD",
+		"away_team" : "Benfica",
+		"home_xG" : 2.9,
+		"away_xG" : 0.5
+	},{
+		"week" : 22,
+		"home_team" : "Braga",
+		"away_team" : "Vitória",
+		"home_xG" : 0.9,
+		"away_xG" : 0.7
+	},{
+		"week" : 23,
+		"home_team" : "Nacional",
+		"away_team" : "Marítimo",
+		"home_xG" : 1.5,
+		"away_xG" : 2.7
+	},{
+		"week" : 23,
+		"home_team" : "Farense",
+		"away_team" : "BSAD",
+		"home_xG" : 1.5,
+		"away_xG" : 1.8
+	},{
+		"week" : 23,
+		"home_team" : "Benfica",
+		"away_team" : "Boavista",
+		"home_xG" : 2.5,
+		"away_xG" : 0.1
+	},{
+		"week" : 23,
+		"home_team" : "Santa Clara",
+		"away_team" : "Portimonense",
+		"home_xG" : 1.5,
+		"away_xG" : 0.6
+	},{
+		"week" : 23,
+		"home_team" : "Tondela",
+		"away_team" : "Sporting",
+		"home_xG" : 0.2,
+		"away_xG" : 1.6
+	},{
+		"week" : 23,
+		"home_team" : "Moreirense",
+		"away_team" : "Rio Ave",
+		"home_xG" : 0.9,
+		"away_xG" : 1.3
+	},{
+		"week" : 23,
+		"home_team" : "Vitória",
+		"away_team" : "Gil",
+		"home_xG" : 3.5,
+		"away_xG" : 2.8
+	},{
+		"week" : 23,
+		"home_team" : "Porto",
+		"away_team" : "Paços",
+		"home_xG" : 1.0,
+		"away_xG" : 0.4
+	},{
+		"week" : 23,
+		"home_team" : "Famalicão",
+		"away_team" : "Braga",
+		"home_xG" : 1.6,
+		"away_xG" : 1.9
+	}
+]
